@@ -88,19 +88,25 @@ After hyperparameter tuning, threshold optimization, and retraining on the combi
 
 ### Confusion Matrix
 
-![Confusion Matrix](figures/confusion_matrix.png)
+<p align="center">
+  <img src="figures/confusion_matrix.png" width="600">
+</p>
 
 ---
 
 ### ROC Curve
 
-![ROC Curve](figures/roc_curves.png)
+<p align="center">
+  <img src="figures/roc_curves.png" width="800">
+</p>
 
 ---
 
 ### Precision-Recall Curve
 
-![Precision-Recall Curve](figures/precision_recall_curves.png)
+<p align="center">
+  <img src="figures/precision_recall_curves.png" width="800">
+</p>
 
 ---
 
@@ -108,7 +114,9 @@ After hyperparameter tuning, threshold optimization, and retraining on the combi
 
 ### SHAP Summary Plot
 
-![SHAP Summary Plot](figures/shap_summary.png)
+<p align="center">
+  <img src="figures/shap_summary.png" width="700">
+</p>
 
 #### What it shows
 
@@ -120,13 +128,17 @@ After hyperparameter tuning, threshold optimization, and retraining on the combi
 
 ### SHAP Bar Plot
 
-![SHAP Bar Plot](figures/shap_bar.png)
+<p align="center">
+  <img src="figures/shap_bar.png" width="700">
+</p>
 
 ---
 
 ### SHAP Waterfall / Force Plot
 
-![SHAP Waterfall](figures/shap_waterfall.png)
+<p align="center">
+  <img src="figures/shap_waterfall.png" width="700">
+</p>
 
 This plot explains an individual prediction by showing how each feature pushes the prediction toward employee attrition or retention.
 
@@ -138,19 +150,25 @@ Interactive API documentation generated automatically by FastAPI.
 
 ### Swagger UI
 
-![Swagger UI](figures/swagger_home.png)
+<p align="center">
+  <img src="figures/swagger_home.png" width="800">
+</p>
 
 ---
 
 ### Example Request
 
-![Example Request](figures/request.png)
+<p align="center">
+  <img src="figures/request.png" width="800">
+</p>
 
 ---
 
 ### Example Response
 
-![Example Response](figures/response.png)
+<p align="center">
+  <img src="figures/response.png" width="800">
+</p>
 
 ---
 
